@@ -1,0 +1,46 @@
+
+*** Starting Image Classification Pipeline ***
+
+Command Line Arguments:
+ Directory = uploaded_images/ 
+ CNN Model = vgg 
+ Dogfile = dognames.txt 
+
+Total Images Found: 4
+
+*** Summary of Results Statistics ***
+n_images: 4
+n_dogs_img: 2
+n_notdogs_img: 2
+n_match: 2
+n_correct_dogs: 2
+n_correct_notdogs: 2
+n_correct_breed: 0
+pct_match: 50.0
+pct_correct_dogs: 100.0
+pct_correct_breed: 0.0
+pct_correct_notdogs: 100.0
+
+*** Results Summary for CNN Model Architecture VGG ***
+
+Number of Images: 4
+Number of Dog Images: 2
+Number of Not-a-Dog Images: 2
+
+*** Percentage Statistics ***
+pct_match           : 50.00
+pct_correct_dogs    : 100.00
+pct_correct_breed   : 0.00
+pct_correct_notdogs : 100.00
+
+*** Misclassified Dog Breeds ***
+Pet Image:                        dog  Classifier Label:               golden retriever
+Pet Image:                        dog  Classifier Label:               golden retriever
+
+*** End of Results ***
+
+
+*** End of Image Classification Pipeline ***
+
+
+Total Elapsed Runtime: 0:0:1
