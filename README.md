@@ -173,7 +173,7 @@ Add screenshots or a GIF showing the app or example predictions in `docs/` or di
 
 ---
 
-## How to Add README to Your GitHub Repo (quick Git commands)
+
 If your project is already a git repo locally:
 
 ```bash
